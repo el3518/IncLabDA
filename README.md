@@ -2,7 +2,7 @@
 
 The implementation of "Multi-source domain adaptation handling inaccurate label spaces" in Python. 
 
-Code for the TKDE publication. The full paper can be found [here](https://doi.org/10.1016/j.neucom.2024.127824). 
+The full paper can be found [here](https://doi.org/10.1016/j.neucom.2024.127824). 
 
 Please consider citing if you find this helpful or use this code for your research.
 
